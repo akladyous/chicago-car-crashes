@@ -1,7 +1,7 @@
-# Chicago Car Crashes Prediction
+# chicago-car-crashes-prediction
 
 <div align="center">
-  <img src="chicago-car-crashes.webp" alt="Chicago Car Crashes Prediction" width="600"/>
+  <img src="chicago-car-crashes-prediction.webp" alt="Chicago Car Crashes Prediction" width="600"/>
 </div>
 
 Car accidents is an important and directly related topic in people's daily lives, According to statistics from the Illinois Department of Transportation (IDOT), there were 92,092 car accidents in the city of Chicago in 2020. Of these, 133 accidents resulted in fatalities and 19,755 caused injuries and 12,526 involved visible injuries that did not incapacitate the victim. Machine learning can be a useful tool for analyzing and reducing the risk of crashes. in this project, an analysis of Chicago traffic accident data of year 2020 is demonstraed, followed by prediction of accident primary causes based on random forest model.
