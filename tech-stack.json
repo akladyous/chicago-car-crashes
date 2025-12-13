@@ -1,0 +1,16 @@
+{
+    "tech stack": [
+        "Jupyter Notebooks",
+        "Pandas",
+        "NumPy",
+        "Scikit-learn",
+        "Random Forest Classifier",
+        "Decision Tree Classifier",
+        "GridSearchCV",
+        "OneHotEncoder",
+        "LabelEncoder",
+        "SimpleImputer",
+        "Matplotlib",
+        "Seaborn"
+    ]
+}
