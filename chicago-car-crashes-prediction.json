@@ -1,0 +1,22 @@
+{
+    "tech stack": [
+        "Jupyter Notebooks",
+        "Pandas",
+        "NumPy",
+        "Scikit-learn",
+        "Random Forest Classifier",
+        "Decision Tree Classifier",
+        "GridSearchCV",
+        "OneHotEncoder",
+        "LabelEncoder",
+        "SimpleImputer",
+        "Matplotlib",
+        "Seaborn"
+    ],
+    "highlights": [
+        "Developed a machine learning pipeline in Python to analyze 2020 Chicago traffic crash data and predict primary contributory causes using tree-based classifiers.",
+        "Performed large-scale data preparation and feature handling with Pandas and NumPy, integrating crash, vehicle, and people datasets containing over 100 input features.",
+        "Trained and evaluated multiple classification models, including Decision Tree, Random Forest, and Bagging classifiers, using accuracy and ROC-AUC to assess performance on imbalanced data.",
+        "Achieved 78% prediction accuracy with a Random Forest model and visualized model behavior and outcomes using Matplotlib and Seaborn to support traffic safety analysis."
+    ]
+}
